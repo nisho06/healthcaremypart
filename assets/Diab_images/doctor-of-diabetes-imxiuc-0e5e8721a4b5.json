@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "doctor-of-diabetes-imxiuc",
+  "private_key_id": "0e5e8721a4b5dcaf195a1b3d38835cb5c61eef62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbsAaNxWgZEgqD\na0b8ktZebegXp2hRwS5XxL0roFj+yvvrRzV7HOpQGgG/LgZ6DPWCSMqrUR7a3fZf\nGQJaSxijVYI6hxdPFVpvdE6ckwEVf9y9KY+H6p/xh8JnBv68qQlHBxjT8OQlTrft\npGGEkOYCywcOUDJx8OYyMuzPGpdawS2rrOofK3JOKy7BmOm8e/Cyc1mE4WBO57SR\nN4MRLfW0JAOiBYlsXCjPc3usqK+eUXri/lqpTVXUPDATyexL5tzUsQAUPqkdhMBH\nihRjbULl2VAfTGVgxzq1hlksEP1PgMR9+mgBCTClvC+0VyLg/T3YGGUD1i+fmXUm\njFSYos99AgMBAAECggEASU2K+GtvBQbajmAPT1KvvkxPT/vRgVTMxiRq0USxQl4+\nWNvxUWMe69Ii6mn4QLUjT1GIozsRpQmHO+VhlzPuiND0/SuoDONH7lw7uzr38rB+\nNU6BNwSAhE9gd/PyMs///0JXLUspkGtM7IZOKAW1VrFTRCj8Z2t+ZzpVB3pEs0Sv\nJaGu9UI+iSFXqQtZqu7kQqjdJnyjEjE+4EeNAYaRUA4dXnHQryEsltHagT9b6QYG\naIgy06G1IBazqdnRY0TnRLkG3TmnFwYZ22Wry++YLNIs7VC0CaA5lPQHuSXfeN/W\n5EDm/QoDpU+3NtdJy1vdTC1J7tYpWbkrrTVvdJ6XHQKBgQDUrkDUQm1GnLm/JUP2\n/LN5XTBbRHnup9U65ZOCciBskmbS456v3OZJ2PTBvkGteRbTWqfTxkbHgRK0q8fo\nAkh5R2NtCJZ9OrYRh3Wz35WEfuFEluraVW208XwSVeXCOQO+dQ0j6VV8EyULGjnR\n6bZd10rn7d9CsPjugAc/uHVnLwKBgQC7Zf+42kCVHI7fhEfZyHs1hZ64EenGVbDX\n67fNrEGBWDvuE/w3SveR49U4n635UsBrwtr1VDujTtdRNN+if3nhazPgMwkLjK54\nDGbIa+vR6WjHGbpC3y2GfHAM71wh73n207DiHQUYUzYyKXI1F9nhcCSXRrrIqVks\nlzISOoyJEwKBgFQDAVjXZJMgFb+L2O0XpU2rog5rXj8HzRMW3M4KhwRcUIG9qFGP\n0Oga65Qcs5Ty4DFc/i6JhCwKsHjt4mmjfT1rFbtcSRXuuzzxZW1IRKex9wpBE0Rr\nuopfWcNkav3tx6zUT/x/j2UTqu5Xzb89suwev1gefrK5dZvAtxxUoQvBAoGBAJYq\ncfSKz92s+MAbnAfkIvcMj9coY5BO8lrTxIHHWuZu8fchhKY6KJB7ZUzuh9aWfSLd\nDeAxE2kVsGyeVeY9CEmeQf+SZdkfbl88cNCByoJ260NAVoVnmW9/H7r9w3JeF/m2\nQLOwVXjclT01AROSfUGtP2UJhHtvWMnmjnUU/bCJAoGABQlR0HM1pVWLAfIAqo3l\n2ZhQPpe/MZG+4011+/CxWReSRsfMmE0wr6+tPPrjoPhiwAoX/1WxrbZfxzeasMh9\nMmO+nzos8JWCYjNf0juIhDCUdi+iHTTkeAL4RhjI8jq7cGylzcgO9/D+zqI18L9Y\nfYbqhJkCId+8b6yFaGia2Lw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "doctor@doctor-of-diabetes-imxiuc.iam.gserviceaccount.com",
+  "client_id": "100736301259342803388",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doctor%40doctor-of-diabetes-imxiuc.iam.gserviceaccount.com"
+}

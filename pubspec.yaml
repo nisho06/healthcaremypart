@@ -1,0 +1,138 @@
+name: healthcaresupportsystem
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^0.15.5+3
+  cloud_firestore: ^0.13.4+2
+  provider: ^4.0.4
+  firebase_storage: ^3.1.5
+  image_picker: ^0.6.4
+  datetime_picker_formfield: ^1.0.0
+  flutter_local_notifications: ^1.4.1
+  path_provider: ^0.5.0+1
+  flutter_swiper: ^1.1.6
+  curved_navigation_bar: ^0.3.2
+  cupertino_icons: ^0.1.2
+  giffy_dialog: ^1.7.0
+  flutter_redux: ^0.6.0
+  percent_indicator: ^2.1.3
+  fl_chart: ^0.9.3
+  flutter_dialogflow: ^0.1.3
+  http: ^0.12.0+2
+  flutter_spinkit: ^4.1.2+1
+  url_launcher: ^5.4.7
+  flutter_speed_dial: ^1.2.1
+  folding_cell: ^0.1.2
+  flutube: ^0.8.3
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.7.4
+  mockito: ^4.1.1
+  rxdart:
+  flutter_driver:
+    sdk: flutter
+  test: any
+#  flutter_test:
+#    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/CKD_image/Doctor.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/CKD_image/kidney_1.jpg
+    - assets/
+    - assets/CKD_image/
+    - assets/breast_cancer_image/
+    - assets/breast_cancer_image/guide/
+    - assets/NotificationManager/
+    - assets/OnboardScreen/
+    - assets/dialogflow/bot-cred.json
+    - assets/HTD/images/
+    - assets/HTD/
+    - assets/Diab_images/
+    - assets/Diab_images/Bad_Foods/
+    - assets/Diab_images/good_foods/
+    - assets/Diab_images/doctor-of-diabetes-imxiuc-0e5e8721a4b5.json
+  #  - images/a_dot_ham.jpeg
+
+#  fonts:
+#     - family: KaushanScript
+#       fonts:
+#         - asset: fonts/KaushanScript-Regular.ttf
+##         - asset: fonts/Schyler-Italic.ttf
+##           style: italic
+#     - family: Baloo2
+#       fonts:
+#         - asset: fonts/Baloo2-Medium.ttf
+#         - asset: fonts/Baloo2-Bold.ttf
+#         - asset: fonts/Baloo2-ExtraBold.ttf
+#         - asset: fonts/Baloo2-SemiBold.ttf
+#         - asset: fonts/Baloo2-Regular.ttf
+#     - family: Poppins
+#       fonts:
+#         - asset: assets/HTD/Poppins-SemiBold.ttf
+  fonts:
+    - family: KaushanScript
+      fonts:
+        - asset: fonts/KaushanScript-Regular.ttf
+    #       - asset: fonts/Schyler-Italic.ttf
+    #         style: italic
+    - family: Baloo2
+      fonts:
+        - asset: fonts/Baloo2-Regular.ttf
+    - family: Cairo
+      fonts:
+        - asset: fonts/Baloo2-Regular.ttf
+    - family: Baloo2
+      fonts:
+        - asset: fonts/Baloo2-Medium.ttf
+        - asset: fonts/Baloo2-Bold.ttf
+        - asset: fonts/Baloo2-ExtraBold.ttf
+        - asset: fonts/Baloo2-SemiBold.ttf
+        - asset: fonts/Baloo2-Regular.ttf
+    - family: Amatic
+      fonts:
+        - asset: fonts/AmaticSC-Bold.ttf
+        - asset: fonts/AmaticSC-Regular.ttf
+    - family: BalsamiqSans
+      fonts:
+        - asset: fonts/BalsamiqSans-Bold.ttf
+        - asset: fonts/BalsamiqSans-BoldItalic.ttf
+        - asset: fonts/BalsamiqSans-Italic.ttf
+        - asset: fonts/BalsamiqSans-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Medium.ttf
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
